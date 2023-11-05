@@ -2,6 +2,9 @@
 
 Template Python 3.10
 
+![build_workflow](https://github.com/ceebeel/Template-Py310-CA-CI-CD/actions/workflows/python-app.yml/badge.svg)
+
+
 ## Clean Architecture
 
 - entities/
