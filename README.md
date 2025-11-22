@@ -22,16 +22,3 @@ Template Python 3.10
 - Test Covorage: Pytest-cov
 - Test Mutatation: Mutumt
 
-## CI
-
-poetry check
-poetry lock
-poetry
-
-poerty run ruff
-poerty run ruff --format
-
-poetry run pyright
-
-poetry run pytest
-poetry run pytest-cov
